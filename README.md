@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1200&color=06B6D4&width=680&lines=16+y%2Fo+developer+from+Heide%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA;Computer+Vision+%26+Deep+Learning;SterilVision+%E2%80%94+AI+for+patient+safety+%F0%9F%94%AC;BWKI+2026+National+Finalist+%F0%9F%8F%86;Building+pixlang+%E2%80%94+my+own+language;Do+it+for+Good.+Do+it+for+Real." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1200&color=06B6D4&width=680&lines=16+y%2Fo+developer+from+Heide%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA;Computer+Vision+%26+Deep+Learning;SterilVision+%E2%80%94+AI+for+patient+safety+%F0%9F%94%AC;BWKI+2026+%F0%9F%8F%86;Building+pixlang+%E2%80%94+my+own+language;Do+it+for+Good.+Do+it+for+Real." alt="Typing SVG"/>
 </a>
 
 ---
