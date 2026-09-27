@@ -24,7 +24,7 @@ Location       Heide, Schleswig-Holstein 🇩🇪
 ```
 
 - 🔬 **BWKI 2026** — AI for sterile instrument inspection
-- 🏥 **WKK Heide** — deployed and tested at a real hospital AEMP lab
+- 🏥 **WKK Heide** — deployed at a real hospital AEMP lab
 - ✏️ Building **[pixlang](https://github.com/hackbert301009/pixlang)** — my own programming language
 - 🌍 Standing for humanity, open knowledge, and tech that has a point
 
